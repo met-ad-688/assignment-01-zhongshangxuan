@@ -2,7 +2,7 @@
 # Assignment-01
 ### Assignment Overview
 
-By Shangxuan Zhong 
+By Shangxuan Zhong  BUID U38230617
 Instance ID i-05d3aa304969a4551
 
 This assignment involves three tasks: gathering system information, processing data with a shell script, and analyzing data using Python. The goal is to count occurrences of "Python" and "GitHub" in a StackOverflow dataset while documenting the system environment.
